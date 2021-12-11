@@ -32,18 +32,3 @@ with conn:
             cur.execute(insert, data)
 
     conn.commit()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
